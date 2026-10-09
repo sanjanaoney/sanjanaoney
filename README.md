@@ -18,7 +18,7 @@
 - Revisiting my existing projects to improve their functionality, responsiveness, and code structure.
 - Building more projects as I work through my frontend development course.
  
-## 🔬 Research
+##  Research
 
 ### Explainable Deep Learning Models for Intrusion Detection in IoMT
 
